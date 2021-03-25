@@ -1,0 +1,5 @@
+
+node_modules/*
+src/plugins/zTree_v3/api/*
+src/plugins/zTree_v3/demo/*
+src/plugins/zTree_v3/*.*
